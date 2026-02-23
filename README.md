@@ -4,21 +4,21 @@ questo progetto formativo mira ad accrescere le nostre competenze non solo infor
 
 un grazie speciale a tutti coloro che partecipano:
 
-Lorenzo Buono
-Luca Calcagni
-Leonardo Capezzuoli
-Alessandro Ciardelli
-Amos Clipa
-Andrea Dimodugno
-Andy Dushku
-Lorenzo Esposito
-Maria Michele Gargiulo
-Duccio Ghelli
-Alessio Giangravé
-Gianmarco Landucci
-Marco Mannucci
-Marco Pandolfi
-Dario Salatti
-Gianmarco Tosi
-Elia Turini
+Lorenzo Buono,
+Luca Calcagni,
+Leonardo Capezzuoli,
+Alessandro Ciardelli,
+Amos Clipa,
+Andrea Dimodugno,
+Andy Dushku,
+Lorenzo Esposito,
+Maria Michele Gargiulo,
+Duccio Ghelli,
+Alessio Giangravé,
+Gianmarco Landucci,
+Marco Mannucci,
+Marco Pandolfi,
+Dario Salatti,
+Gianmarco Tosi,
+Elia Turini,
 Gioele Zoppi
